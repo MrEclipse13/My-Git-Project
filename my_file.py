@@ -6,10 +6,6 @@ def hi_there():
     
     print("hi")
 
-    print('Hi')
-
-    def hi_there():
+def hi_there():
     
-    print("hi")
-
-    print('Hi')
+    return 'Hi'

@@ -1,3 +1,2 @@
-print('Hi GIT')
-
-print('Hi from another DEV')
+def hi_there():
+    print("hi")
